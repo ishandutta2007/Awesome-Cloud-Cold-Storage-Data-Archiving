@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Cold-Storage-Data-Archiving"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Cold-Storage-Data-Archiving?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Cold-Storage-Data-Archiving"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Cold-Storage-Data-Archiving?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Cold-Storage-Data-Archiving/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Cold-Storage-Data-Archiving?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Cold-Storage-Data-Archiving/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Cold-Storage-Data-Archiving?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -63,7 +63,7 @@ The cold storage and archiving market spans **hyperscaler archive tiers** (Glaci
 
 ## 🔓 Open-Source GitHub Projects 🚀
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[MinIO](https://github.com/minio/minio)** [![Stars](https://img.shields.io/github/stars/minio/minio?style=social&color=white)](https://github.com/minio/minio/stargazers) 🎯  
   **High-performance S3-compatible object storage**, AGPL-3.0 licensed. **Single binary deployment** — runs on bare metal, Kubernetes, or edge nodes. **Erasure coding, bit-rot protection, server-side encryption**, and **S3 Select** for fast data filtering.
